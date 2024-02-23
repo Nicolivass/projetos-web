@@ -1,0 +1,77 @@
+/*Modelo de caixa*/
+
+body{
+    background: #F1F1F2 url(imagens/background.jpg);
+	font: 16px Georgia, serif;
+    background-size: cover;
+}
+
+#capa{
+    background-color: #0D3A84;
+    font-size: 100px;
+    text-align: center;
+    color: #F1F1F2;
+    margin-bottom:0.5em;
+}
+
+#menu{
+    height: 4em;
+    font-size: 1.7em;
+    text-align: center;
+    color: #0D3A84;
+    margin: 1em 0em;
+}
+
+#content {
+    padding: 3em;
+}
+
+#data{
+    font-size: 1em;
+    padding: 20px;
+
+}
+
+#titulo{
+    color: #0D3A84;
+    padding: 20px;
+    width: 900px;
+    text-align: left;
+    font-size:3.5em;
+    font-weight: 900;
+    font-stretch: condensed;
+}
+
+.subtitulo{
+    padding: 20px;
+    width: 900px;
+    text-align: justify;
+    font-size:3em;
+    font-weight: 400;
+    font-stretch: semi-expanded
+}
+
+.subsubtitulo{
+    padding: 20px;
+    width: 900px;
+    font-size:1.5em;
+    text-align: justify;
+}
+
+.conteudo{
+    padding: 20px;
+    width: 900px;
+    font-size:1em;
+    text-align: justify;
+}
+
+img{
+    width: 50em;
+    margin: 20px;
+}
+
+.imagens{
+    width: 900px;
+    padding: 20px;
+    align-items: center;
+}
